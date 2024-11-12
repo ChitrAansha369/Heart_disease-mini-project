@@ -1,8 +1,8 @@
 # Heart_disease-mini-project
 
-data                # Contains the dataset
-notebooks           # Jupyter notebooks for data exploration and model building
-README.md           # Project description and information
+data          # Contains the dataset
+notebooks     # Jupyter notebooks for data exploration and model building
+README.md     # Project description and information
 
 Usage
 Load and preprocess the dataset.
